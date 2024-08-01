@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import TodoItem from "../TodoItem.js";
+import TodoItem from "./todo";
 
 const API_BASE= 'http://localhost:3001/to-do-app';
 
